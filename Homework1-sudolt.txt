@@ -1,0 +1,4 @@
+MySQL server is at:  http://flip2.engr.oregonstate.edu:64646/
+
+Github reposityory is at:  https://github.com/sudolt/CS290
+
